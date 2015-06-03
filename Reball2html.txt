@@ -1,0 +1,8 @@
+<html>
+<head>
+<script type='text/javascript' src='http://lrn.icstars.org/redball.js'></script>
+</head>
+<body>
+<img id="redball" src="http://thumbs.dreamstime.com/x/red-ball-12367534.jpg"/>
+</body>
+</html>

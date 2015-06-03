@@ -1,0 +1,18 @@
+<html>
+<head>
+<script type='text/javascript' src='http://lrn.icstars.org/redball.js'></script>
+<script>
+function moveup() {
+	redball.top=redball.top -10;
+}
+
+</script>
+
+
+</head>
+<body>
+
+<img id='redball' src="http://designstacks.net/content_images/AdobePhotoshop/ART-D/tutorial597/8.jpg"/>
+<button onclick="moveup()">Move Up</button>
+</body>
+</html>
